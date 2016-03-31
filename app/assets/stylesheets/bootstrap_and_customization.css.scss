@@ -1,8 +1,19 @@
 $body-bg: #ecf0f1;
-$navbar-inverse-bg: #e74c3c;
-$navbar-inverse-link-color: white;
-$brand-primary: orange;
+
+$navbar-default-bg: #34495e;
+$navbar-default-link-color: white;
+$navbar-height: 40px;
+$navbar-border-radius: 0;
+$navbar-default-link-hover-color: red;
+$dropdown-border: red;
+$navbar-default-brand-color: grey;
+
+$brand-primary: #1abc9c;
 $jumbotron-bg: white;
+
 
 @import 'bootstrap';
 
+.center {
+	text-align: center;
+}
